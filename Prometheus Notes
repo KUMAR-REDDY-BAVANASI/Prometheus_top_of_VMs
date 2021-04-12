@@ -489,4 +489,4 @@ receivers:
     smarthost: smtp.gmail.com:587
     auth_username: "reddykumar10697@gmail.com"
     auth_identity: "reddykumar10697@gmail.com"
-    auth_password: "reddykumar10697"
+    auth_password: "XXXXXXXXXXXXXXXXXX"
